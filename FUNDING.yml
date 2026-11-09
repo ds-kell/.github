@@ -1,0 +1,7 @@
+# Shown as the "Sponsor" button on every ds-kell repository that has no FUNDING.yml of its own.
+# Once GitHub Sponsors or Buy Me a Coffee is set up, uncomment the matching line.
+# github: ds-kell
+# buy_me_a_coffee: <username>
+custom:
+  - https://paypal.me/truyennt
+  - https://github.com/ds-kell/ds-kell/blob/main/DONATE.md
